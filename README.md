@@ -13,3 +13,7 @@ event_name: the name of event to be triggered.
 
 play_time: seconds, at what time the event will be triggered.
 
+example options:
+
+{events: [{"play_time":"6","event_name":"sample-event-1"},{"play_time":"12","event_name":"sample-event-2"}]}
+
