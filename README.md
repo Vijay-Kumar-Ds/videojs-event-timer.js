@@ -3,7 +3,7 @@ a plugin for video.js that trigger events at specified play time.
 
 # Documentation
 
-Plugin Options
+Plugin Options:
 
 This plugin was created to work with jQuery, but you can remove this dependency by modifying the source code to fit your needs.
 You can pass in an options object to the plugin upon initialization. 
