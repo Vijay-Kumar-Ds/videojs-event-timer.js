@@ -10,5 +10,6 @@ You can pass in an options object to the plugin upon initialization.
 Options may contain following properties:
 
 event_name: the name of event to be triggered.
+
 play_time: seconds, at what time the event will be triggered.
 
